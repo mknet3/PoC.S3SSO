@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "PoC.S3SSO": {
+      "commandName": "Project",
+      "commandLineArgs": "your-bucket eu-central-1 your-file.txt"
+    }
+  }
+}
